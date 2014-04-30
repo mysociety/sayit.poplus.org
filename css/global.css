@@ -981,7 +981,7 @@ textarea,
   background-image: url("../assets/img/example-sayit-icon.png");
   background-position: top left;
   background-repeat: no-repeat;
-  background-size: 83px 60px; }
+  background-size: 85px 60px; }
   @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
     .example-sayit {
       background-image: url("../assets/img/example-sayit-icon@2.png"); } }
