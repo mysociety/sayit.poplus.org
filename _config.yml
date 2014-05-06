@@ -1,4 +1,4 @@
 name: sayit.poplus.org
-baseurl: /sayit.poplus.org
+baseurl:
 markdown: redcarpet
 pygments: true
